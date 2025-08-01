@@ -19,3 +19,12 @@ Project Structure -
   - `EspressoMachine.java`: Singleton bean implementation.
   - `LatteMachine.java`: Prototype bean implementation.
   - `CafeService.java`: Service that uses a coffee machine.
+ 
+
+2) Demo :- 
+A simple Spring Boot application demonstrating RESTful APIs, JPA, H2 database, and basic security.
+
+
+
+
+
